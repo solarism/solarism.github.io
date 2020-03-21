@@ -52,8 +52,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Ph.D. in Information Management
-      university: National Central University
+    - degree: Doctor of Philosophy
+      university: Information Management, National Central University
       time: 2007 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -63,8 +63,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: M.S. in Information Management
-      university: Shih Hsin University
+    - degree: Master of Science
+      university: Information Management, Shih Hsin University
       time: 2002 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -74,8 +74,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: B.S. in Information Management
-      university:  Ming Chuan University
+    - degree: Bachelor of Science
+      university:  Information Management, Ming Chuan University
       time: 1995 - 1997
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
