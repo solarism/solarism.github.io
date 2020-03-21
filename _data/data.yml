@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: weicwu@fcu.edu.tw
-    email: wu@elearn.org.in
     phone: +886 926 813835
     website: elearn.org.in #do not add http://
     linkedin: alandoe
@@ -21,7 +20,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@Weichen35563207'
-    facebook: 'solarism@msn.com'
+    facebook: 'solarism'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
