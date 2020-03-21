@@ -45,7 +45,8 @@ My website is under construction....:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise my career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can download this resume/CV here if required.
+      Summarise my career here lorem ipsum dolor sit amet, consectetuer 
+      adipiscing elit. You can download this resume/CV here if required.
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
