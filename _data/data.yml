@@ -41,16 +41,13 @@ sidebar:
 
       - item: Petkeeping 
         link:
-
+        
+My website is under construction...:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Summarise my career here lorem ipsum dolor sit amet, consectetuer 
+      adipiscing elit. You can download this resume/CV here if required.
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
