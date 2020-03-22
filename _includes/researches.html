@@ -1,0 +1,19 @@
+{% assign researches = site.data.data.sidebar.researches %}
+{% if researches %}
+<div class="researches-container container-block">
+
+    <h2 class="container-block-title">
+        Researches
+    </h2>
+
+    <ul class="list-unstyled interests-list">
+        {%for researche in researches %}
+        <li>
+            {{ researche.idiom }}
+            <span class="lang-desc">({{ researche.level }})</span>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div><!--//interests-->
+{% endif %}
