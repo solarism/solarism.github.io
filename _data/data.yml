@@ -169,13 +169,13 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: DApp
+        level: 70%
 
       - name: Sketch & Photoshop
         level: 60%
