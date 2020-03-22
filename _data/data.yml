@@ -49,25 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. 
-
-skills:
-    title: Researches &amp; Proficiency
-
-    toolset:
-      - name: Blockchain Technology
-        level: 98%
-
-      - name: Fintech Cybersecurity
-        level: 90%
-
-      - name: Deep Learning
-        level: 80%
-      
-      - name: Bitcoin & Ethereum
-        level: 70%
-
-
+      adipiscing elit. You can [download this free resume/CV template here]() if required.
 
 education:
     - degree: Doctor of Philosophy
