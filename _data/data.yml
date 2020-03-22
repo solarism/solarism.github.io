@@ -142,7 +142,19 @@ publications:
         link: "#"
         authors: "Wei-Chen Wu, Horng-Twu Liaw"
         conference: "Lecture Notes in Electrical Engineering, 464, 278-282.(2018, Apr.)(EI)"
-
+      - title: "Performance Evaluation on Recommendation Mechanism of Information Security Risk Identiﬁcation"
+        link: "#"
+        authors: "Yu-Chih Wei, Wei-Chen Wu, Ya-Chi Chu"
+        conference: "Neurocomputing, 279(1), 48-53.(2018, Mar.)(SCI/E, IF=4.047, 28/133, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE)"
+      - title: "Multi-server Authentication Scheme with Hash Function"
+        link: "#"
+        authors: "Wei-Chen Wu"
+        conference: "Lecture Notes in Electrical Engineering, 422, 799-808.(2017, Sep)(EI)"
+      - title: "A Secret Push Messaging Service in VANET Clouds"
+        link: "#"
+        authors: "Wei-Chen Wu"
+        conference: "Journal of Supercomputing, 73(7), 3085–3097.(2017, Jul)(SCI/E, IF=2.157, 35/104, COMPUTER SCIENCE, THEORY & METHODS)"
+    
 skills:
     title: Programming &amp; Proficiency
 
