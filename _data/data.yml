@@ -162,7 +162,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C & Swift
         level: 98%
 
       - name: Javascript & jQuery
