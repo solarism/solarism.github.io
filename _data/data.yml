@@ -162,11 +162,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C & Swift
-        level: 100%
+     - name: C & Swift
+       level: 100%
 
-      - name: Python & Tensorflow
-        level: 98%
+     - name: Python & Tensorflow
+       level: 98%
         
      - name: Javascript & jQuery
         level: 80%
