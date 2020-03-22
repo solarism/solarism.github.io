@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Weichen Wu 吳威震
-    tagline: Assistant Professor
+    tagline: Assistant Professor, Dept. of Finance @ Feng Chia University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -103,7 +103,7 @@ education:
 experiences:
     - role: Assistant Professor
       time: 2020 - Present
-      company: Feng Chia University, Taichung
+      company: Dept. of Finance, Feng Chia University, Taichung
 
     - role: Assistant Professor
       time: 2012 - 2014
