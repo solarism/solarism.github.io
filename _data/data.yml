@@ -49,7 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. You can [download this free resume/CV template here]() if required.
+      adipiscing elit. You can download my <a href="https://solarism.github.io/cv.pdf" target="_blank" rel="nofollow">resume/CV</a> here if required.
 skills-research:
     title: Researches &amp; Proficiency
 
@@ -176,7 +176,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming &amp; Proficiency
 
     toolset:
       - name: C & Swift
