@@ -116,25 +116,22 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 結合電子病歷之新世代智慧醫療照護系統
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "2015~2017,計畫編號：MOST 104-2218-E-227-002-MY3(核定經費3,577,000元)"
 
-      - title: DevStudio
+      - title: 響應式網站為架構建置醫護客語辭庫發音教學平台
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "2018,計畫編號：BSAS2017090146(核定經費200,000元)"
 
-      - title: Tempo
+      - title: 聊天式醫護客語辭庫教學機器人-客語ㄚ長
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "2019,計畫編號：BSAS2019030178(核定經費370,000元)"
 
-      - title: Atom
+      - title: 實名制區塊鏈結合健康存摺電子病歷交換機制之研究
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "2019,計畫編號：MOST 108-2410-H-128-020(核定經費1,438,468元)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -142,21 +139,7 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Programming &amp; Proficiency
