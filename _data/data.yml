@@ -178,7 +178,14 @@ publications:
         link: "#"
         authors: "Wei-Chen Wu" 
         conference: "Advanced Materials Research, 846-847, 1707-1710.(2014, Nov)(EI)"                      
-     
+      - title: "Improving Authentication Scheme and Access Control Protocol for VANETs"
+        link: "#"
+        authors: "Wei-Chen Wu, Yi-Ming Chen"  
+        conference: "Entropy, 16(11), 6152-6165. (2014, Nov)(SCI/E, IF=2.419, 28/81, PHYSICS, MULTIDISCIPLINARY)"
+      - title: "An anonymous DRM scheme for sharing multimedia files in P2P networks"
+        link: "#"
+        authors: "Yi-Ming Chen, Wei-Chen Wu"  
+        conference: "Multimedia Tools and Applications, 69(3),1041-1065. (2014, Jul)(SCI/E, IF=2.101, 37/104, COMPUTER SCIENCE, THEORY & METHODS)"  
 
 skills:
     title: Programming &amp; Proficiency
