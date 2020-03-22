@@ -162,23 +162,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-     - name: C & Swift
-       level: 98%
+      - name: Python & Django
+        level: 98%
 
-     - name: Python & Tensorflow
-       level: 98%
-        
-     - name: Javascript & jQuery
-        level: 80%
-     
-     - name: SQL
-       level: 90%
+      - name: Javascript & jQuery
+        level: 98%
 
-     - name: DApp
-       level: 70%
-      
-     - name: Solidity
-       level: 70%       
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Weichen Wu
