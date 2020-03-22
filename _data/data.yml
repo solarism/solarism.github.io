@@ -48,6 +48,12 @@ career-profile:
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
       adipiscing elit. You can [download this free resume/CV template here]() if required.
+skills-research:
+    title: Researches &amp; Proficiency
+
+    toolset:
+      - name: C & Swift
+        level: 100%
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
@@ -179,12 +185,6 @@ skills:
 
       - name: Solidity
         level: 60%
-skills-research:
-    title: Researches &amp; Proficiency
-
-    toolset:
-      - name: C & Swift
-        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Weichen Wu
