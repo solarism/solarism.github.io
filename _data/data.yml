@@ -27,9 +27,12 @@ sidebar:
     researches:
       - idiom: Blockchain Technology
         level: 區塊鏈技術
-
+      
       - idiom: Fintech Cybersecurity
         level: 金融科技安全
+
+      - idiom: Deep Learning
+        level: 深度學習
 
    
     interests:
@@ -42,12 +45,30 @@ sidebar:
       - item: Petkeeping 
         link:
         
-Under construction...:
 career-profile:
     title: Career Profile
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. You can download this resume/CV here if required.
+      adipiscing elit. You can [download this free resume/CV template here]() if required.
+
+skills:
+    title: Researches &amp; Proficiency
+
+    toolset:
+      - name: Blockchain Technology
+        level: 98%
+
+      - name: Fintech Cybersecurity
+        level: 90%
+
+      - name: Deep Learning
+        level: 80%
+      
+      - name: Bitcoin & Ethereum
+        level: 70%
+
+
+
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
@@ -73,7 +94,7 @@ education:
           - Bullet point
     - degree: Bachelor of Science
       university:  Information Management, Ming Chuan University
-      time: 1995 - 1997
+      time: 1994 - 1997
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -162,23 +183,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C & Swift
+        level: 100%
+
+      - name: Python & Tensorflow
         level: 98%
+        
+     - name: Javascript & jQuery
+        level: 80%
+     
+     - name: SQL
+       level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+     - name: DApp
+       level: 70%
+      
+     - name: Solidity
+       level: 70%
+       
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Weichen Wu
