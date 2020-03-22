@@ -49,7 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. You can download my <a href="./cv.pdf" target="_blank" rel="nofollow">resume/CV</a> here if required.
+      adipiscing elit. You can download my <a href="{{ site.baseurl }}/cv.pdf" target="_blank" rel="nofollow">resume/CV</a> here if required.
 skills-research:
     title: Researches &amp; Proficiency
 
