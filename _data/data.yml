@@ -49,7 +49,8 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. You can download my <a href="{{ site.baseurl }}/cv.pdf" target="_blank" rel="nofollow">resume/CV</a> here if required.
+      adipiscing elit. You can download my resume/CV here if required. 
+      
 skills-research:
     title: Researches &amp; Proficiency
 
@@ -103,29 +104,11 @@ experiences:
     - role: Assistant Professor
       time: 2020 - Present
       company: Feng Chia University, Taichung
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+
     - role: Assistant Professor
       time: 2012 - 2014
       company: Hsin Sheng Junior College of Medical Care and Management, Taoyuan
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
