@@ -30,7 +30,9 @@ sidebar:
 
       - idiom: Fintech Cybersecurity
         level: 金融科技安全
-
+      
+      - idiom: Deep Learning
+        level: 深度學習
    
     interests:
       - item: Climbing
@@ -52,8 +54,17 @@ skills-research:
     title: Researches &amp; Proficiency
 
     toolset:
-      - name: C & Swift
-        level: 100%
+      - name: Blockchain Technology
+        level: 98%
+
+      - name: Fintech Cybersecurity
+        level: 90%
+
+      - name: Deep Learning
+        level: 80%
+      
+      - name: Bitcoin & Ethereum
+        level: 70%
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
