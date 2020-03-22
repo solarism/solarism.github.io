@@ -73,7 +73,7 @@ education:
           - Bullet point
     - degree: Bachelor of Science
       university:  Information Management, Ming Chuan University
-      time: 1995 - 1997
+      time: 1994 - 1997
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -179,6 +179,12 @@ skills:
 
       - name: Solidity
         level: 60%
+skills:
+    title: Researches &amp; Proficiency
+
+    toolset:
+      - name: C & Swift
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Weichen Wu
