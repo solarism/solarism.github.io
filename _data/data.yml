@@ -51,6 +51,7 @@ career-profile:
       Summarise my career here lorem ipsum dolor sit amet, consectetuer 
       adipiscing elit. You can [download this free resume/CV template here]() if required.
 
+
 education:
     - degree: Doctor of Philosophy
       university: Information Management, National Central University
@@ -174,17 +175,10 @@ skills:
      - name: Javascript & jQuery
         level: 80%
      
-     - name: SQL
-       level: 90%
 
-     - name: DApp
-       level: 70%
-      
-     - name: Solidity
-       level: 70%
        
 
-    
+  
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Weichen Wu
