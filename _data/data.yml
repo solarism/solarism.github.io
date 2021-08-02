@@ -114,7 +114,7 @@ education:
 experiences:
     - role: Assistant Professor
       time: 2021.8 - Present
-      company: Dept. of Finance, Nat'l Taipei Univ. of Biz., Taipei
+      company: Dept. of Finance, National Taipei University of Business, Taipei
 
     - role: Assistant Professor
       time: 2020.2 - 2021.7
@@ -124,7 +124,7 @@ experiences:
       time: 2012.8 - 2020.1
       company: Hsin Sheng Junior College of Medical Care and Management, Taoyuan
     
-    - role: ecturer
+    - role: Lecturer
       time: 2007.2 - 2012.8
       company: Hsin Sheng Junior College of Medical Care and Management, Taoyuan
 
@@ -148,6 +148,10 @@ projects:
       - title: 實名制區塊鏈結合健康存摺電子病歷交換機制之研究
         link: "#"
         tagline: "2019,計畫編號：MOST 108-2410-H-128-020(核定經費1,438,468元)"
+
+
+
+
 
 
 publications:
