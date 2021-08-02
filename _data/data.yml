@@ -61,17 +61,20 @@ skills-research:
     title: Researches &amp; Proficiency
 
     toolset:
+      - name: Information Security
+        level: 100%
+        
       - name: Blockchain Technology
-        level: 98%
-
-      - name: Fintech Cybersecurity
         level: 90%
 
-      - name: Deep Learning
+      - name: Fintech Cybersecurity
         level: 80%
+
+      - name: Deep Learning
+        level: 90%
       
       - name: Bitcoin & Ethereum
-        level: 70%
+        level: 80%
 
 education:
     - degree: Doctor of Philosophy
@@ -107,15 +110,25 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Assistant Professor
-      time: 2020 - Present
+      time: 2021.8 - Present
+      company: Dept. of Finance, Nat'l Taipei Univ. of Biz., Taipei
+
+    - role: Assistant Professor
+      time: 2020.2 - 2021.7
       company: Dept. of Finance, Feng Chia University, Taichung
 
     - role: Assistant Professor
-      time: 2012 - 2014
+      time: 2012.8 - 2020.1
+      company: Hsin Sheng Junior College of Medical Care and Management, Taoyuan
+    
+    - role: ecturer
+      time: 2007.2 - 2012.8
       company: Hsin Sheng Junior College of Medical Care and Management, Taoyuan
 
+    
 projects:
     title: Projects
 
