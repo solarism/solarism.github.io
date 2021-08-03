@@ -74,19 +74,19 @@ skills-research:
         level: 100%
  
       - name: Cryptography
-        level: 80%        
+        level: 100%        
 
       - name: Cryptocurrency
-        level: 80%        
+        level: 100%        
 
       - name: Fintech Cybersecurity
-        level: 80%
+        level: 100%
 
       - name: Blockchain
-        level: 90%
+        level: 100%
         
       - name: Deep Learning
-        level: 90%
+        level: 100%
      
 
 education:
@@ -260,19 +260,19 @@ skills:
         level: 100%
 
       - name: Python & Tensorflow
-        level: 98%
+        level: 100%
 
       - name: Javascript & jQuery
-        level: 80%
+        level: 100%
 
       - name: SQL
-        level: 90%
+        level: 100%
 
       - name: DApp
-        level: 70%
+        level: 100%
 
       - name: Solidity
-        level: ˙0%
+        level: 100%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by Weichen Wu
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Weichen Wu</a>
