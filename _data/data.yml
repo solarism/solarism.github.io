@@ -25,20 +25,24 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     researches:
-      - idiom: Information Security
+      - idiom: Network Security
         level: 
-      
+ 
       - idiom: Cryptography
+        level:
+        
+      - idiom: Cryptocurrency
         level:
       
       - idiom: Fintech Cybersecurity
         level: 
-      
-      - idiom: Blockchain Technology
+
+      - idiom: Blockchain
         level:
         
       - idiom: Deep Learning
         level: 
+   
    
     interests:
       - item: Climbing
@@ -66,20 +70,24 @@ skills-research:
     title: Researches &amp; Proficiency
 
     toolset:
-      - name: Information Security
+      - name: Network Security
         level: 100%
-        
-      - name: Blockchain Technology
-        level: 90%
+ 
+      - name: Cryptography
+        level: 80%        
+
+      - name: Cryptocurrency
+        level: 80%        
 
       - name: Fintech Cybersecurity
         level: 80%
 
+      - name: Blockchain
+        level: 90%
+        
       - name: Deep Learning
         level: 90%
-      
-      - name: Bitcoin & Ethereum
-        level: 80%
+     
 
 education:
     - degree: Doctor of Philosophy
@@ -138,6 +146,14 @@ projects:
     title: Projects
 
     assignments:
+      - title: 吳威震, 以遞迴神經網路預言機為基礎建置ㄧ個去中心化金融交易生態圈
+        link: "#"
+        tagline: "吳威震, 2021, 科技部專題研究計畫 MOST 108-2410-H-128-020, 核定經費 610,000元"
+      
+      - title: 實名制區塊鏈結合健康存摺電子病歷交換機制之研究
+        link: "#"
+        tagline: "2019,計畫編號：MOST 108-2410-H-128-020(核定經費1,438,468元)"
+      
       - title: 結合電子病歷之新世代智慧醫療照護系統
         link: "#hook"
         tagline: "2015~2017,計畫編號：MOST 104-2218-E-227-002-MY3(核定經費3,577,000元)"
@@ -153,10 +169,6 @@ projects:
       - title: 實名制區塊鏈結合健康存摺電子病歷交換機制之研究
         link: "#"
         tagline: "2019,計畫編號：MOST 108-2410-H-128-020(核定經費1,438,468元)"
-
-
-
-
 
 
 publications:
