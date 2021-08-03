@@ -1,0 +1,32 @@
+{% assign publications = site.data.data.conf %}
+{% if conf %}
+<section class="section conf-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ conf.title }}
+  </h2>
+
+  {% if conf.intro %}
+  <div class="intro">
+    {{ conf.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for conf in conf.papers %}
+  <div class="item">
+    {% if conf.link %}
+      <li><a href="{{ conf.link }}">{{ conf.title }}</a></li>
+    {% else %}
+      <li>{{ conf.title }}</li>
+    {% endif %}
+    <div class="conf-authors">{{ conf.authors }}</div>
+    <div class="conf-conference">{{ conf.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
