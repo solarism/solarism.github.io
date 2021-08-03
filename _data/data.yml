@@ -196,8 +196,8 @@ projects:
   
   
 publications:
-    title: Publications
-    intro: Journal Papers|
+    title: Journal Papers
+    
     papers:
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
@@ -307,14 +307,16 @@ publications:
         title: "公開金鑰基礎建設之憑證管理機制研究，2(4), 449-460。"
         conference: "電子商務研究(TCI)"
         link: "#"
-      
-    intro: Conf. Papers|
+
+publications:
+title: Conference Papers
+    
     papers:
-      - authors: "廖鴻圖, 莊文勝, 吳威震, 陳冠穎（2004年12月）"
-        title: "公開金鑰基礎建設之憑證管理機制研究，2(4), 449-460。"
-        conference: "電子商務研究(TCI)"
+      - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
+        title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
+        conference: "Sustainability,13(5), 2665 (SSCI/SCI/E, IF=3.251, 124/274, ENVIRONMENTAL SCIENCES)"
         link: "#"
-  
+
 skills:
     title: Programming &amp; Proficiency
 
