@@ -310,13 +310,23 @@ publications:
 
 
 conf:
-    title: Conference Papers
+    title: Books
     intro: 
     papers:
-      - authors: "Horng-Twu Liaw, Shiou-Wei Fan, Wei-Chen Wu (2004, Oct)"
-        title: "A Simple Password Authentications Using Polynomial"
-        conference: "ACM Operating Systems Review, 38(4), 74-79. (EI)"
-        link: "#"
+      - authors: "Jason C. Hung, Jia-Wei Chang, Yan Pei and Wei-Chen Wu (Eds.)"
+        title: "Innovative Computing: IC 2021"
+        conference: "Lecture Notes in Electrical Engineering (791), ISBN 978-981-16-4258-6 (2021)"
+        link: "https://doi.org/10.1007/978-981-16-4258-6"
+      - authors: " Wei-Chen Wu (2015)"
+       title: "A Study on Privacy-Preserving Authentication and Service Rights Management for the Internet of Vehicle"
+       conference: "Doctoral Dissertation"
+       link: "http://handle.ncl.edu.tw/11296/ndltd/23113945188053323542"
+      - authors: "Wei-Chen Wu (2004)"
+        title: "A Study on Multi-Server Authentication Scheme" 
+        conference: "Master’s Thesis"
+        link: "http://handle.ncl.edu.tw/11296/ndltd/85160644591925396043"
+
+        
         
 skills:
     title: Programming &amp; Proficiency
