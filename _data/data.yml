@@ -308,14 +308,10 @@ publications:
         conference: "電子商務研究(TCI)"
         link: "#"
 
-publications:
-    title: ConfPapers
+
     intro: "Conf. Papers"
     papers:
-      - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
-        title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
-        conference: "Sustainability,13(5), 2665 (SSCI/SCI/E, IF=3.251, 124/274, ENVIRONMENTAL SCIENCES)"
-        link: "#"
+
         
 skills:
     title: Programming &amp; Proficiency
