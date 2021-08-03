@@ -202,7 +202,9 @@ publications:
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
         conference: "Sustainability,13(5), 2665 (SSCI/SCI/E, IF=3.251, 124/274, ENVIRONMENTAL SCIENCES)"
-        link:
+        link: "#"
+      
+      
       - title: "pISRA: privacy considered information security risk assessment model"
         link: "https://doi.org/10.1007/s11227-018-2371-0"
         authors: "Yu-Chih Wei, Wei-Chen Wu, Gu-Hsin Lai, Ya-Chi Chu"
