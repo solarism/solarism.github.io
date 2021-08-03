@@ -144,7 +144,7 @@ experiences:
     
 projects:
     title: Projects
-
+    
     assignments:
       - title: 以遞迴神經網路預言機為基礎建置ㄧ個去中心化金融交易生態圈
         link: "#"
@@ -196,8 +196,8 @@ projects:
   
   
 publications:
-    title: Journal Papers
-    
+    title: Publications
+    intro: Journal Papers|
     papers:
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
@@ -211,9 +211,9 @@ publications:
         title: "The Next Generation of Internet of Things: Internet of Vehicles"
         conference: "Lecture Notes in Electrical Engineering, 464, 278-282. (EI)"
         link: "#"
-      - authors: "Yu-Chih Wei, Wei-Chen Wu, Ya-Chi Chu (2018, Mar.)
-        title: "Performance Evaluation on Recommendation Mechanism of Information Security Risk Identiﬁcation
-        conference: "Neurocomputing, 279(1), 48-53. (SCI/E, IF=5.719, 30/140, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE)
+      - authors: "Yu-Chih Wei, Wei-Chen Wu, Ya-Chi Chu (2018, Mar.)"
+        title: "Performance Evaluation on Recommendation Mechanism of Information Security Risk Identiﬁcation"
+        conference: "Neurocomputing, 279(1), 48-53. (SCI/E, IF=5.719, 30/140, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE)"
         link: "#"
       - authors: "Wei-Chen Wu (2017, Sep)"
         title: "Multi-server Authentication Scheme with Hash Function"
@@ -308,15 +308,12 @@ publications:
         conference: "電子商務研究(TCI)"
         link: "#"
 
-publications:
-title: Conference Papers
-    
+    intro: Conf. Papers|
     papers:
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
         conference: "Sustainability,13(5), 2665 (SSCI/SCI/E, IF=3.251, 124/274, ENVIRONMENTAL SCIENCES)"
         link: "#"
-
 skills:
     title: Programming &amp; Proficiency
 
