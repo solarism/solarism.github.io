@@ -309,11 +309,14 @@ publications:
         link: "#"
 
 
-publications:
+conf:
     title: Conf. Papers
     intro: "Conf. Papers"
     papers:
-
+      - authors: "Horng-Twu Liaw, Shiou-Wei Fan, Wei-Chen Wu (2004, Oct)"
+        title: "A Simple Password Authentications Using Polynomial"
+        conference: "ACM Operating Systems Review, 38(4), 74-79. (EI)"
+        link: "#"
         
 skills:
     title: Programming &amp; Proficiency
