@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for conf in conf.papers %}
+  {% for publication in conf.papers %}
   <div class="item">
-    {% if conf.link %}
-      <li><a href="{{ conf.link }}">{{ conf.title }}</a></li>
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
-      <li>{{ conf.title }}</li>
+      <li>{{ publication.title }}</li>
     {% endif %}
-    <div class="conf-authors">{{ conf.authors }}</div>
-    <div class="conf-conference">{{ conf.conference }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
