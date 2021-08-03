@@ -196,8 +196,8 @@ projects:
   
   
 publications:
-    title: Publications
-    intro: "Journal Papers"
+    title: Journal Papers
+    intro: 
     papers:
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
@@ -310,8 +310,8 @@ publications:
 
 
 conf:
-    title: Conf. Papers
-    intro: "Conf. Papers"
+    title: Conference Papers
+    intro: 
     papers:
       - authors: "Horng-Twu Liaw, Shiou-Wei Fan, Wei-Chen Wu (2004, Oct)"
         title: "A Simple Password Authentications Using Polynomial"
