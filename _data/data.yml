@@ -308,7 +308,7 @@ publications:
         conference: "電子商務研究(TCI)"
         link: "#"
 
-conf:
+book:
     title: Books
     intro: 
     papers:
@@ -324,12 +324,29 @@ conf:
         title: "A Study on Multi-Server Authentication Scheme" 
         conference: "Master’s Thesis"
         link: "http://handle.ncl.edu.tw/11296/ndltd/85160644591925396043"
-         
+
+book:
+    title: Conference Papers
+    intro: 
+    papers:
+      - authors: "Jason C. Hung, Jia-Wei Chang, Yan Pei and Wei-Chen Wu (Eds.)(2021)"
+        title: "Innovative Computing: IC 2021"
+        conference: "Lecture Notes in Electrical Engineering (791), ISBN 978-981-16-4258-6"
+        link: "https://www.springer.com/gp/book/9789811642579"
+      - authors: "Wei-Chen Wu (2015)"
+        title: "A Study on Privacy-Preserving Authentication and Service Rights Management for the Internet of Vehicle"
+        conference: "Doctoral Dissertation"
+        link: "http://handle.ncl.edu.tw/11296/ndltd/23113945188053323542"
+      - authors: "Wei-Chen Wu (2004)"
+        title: "A Study on Multi-Server Authentication Scheme" 
+        conference: "Master’s Thesis"
+        link: "http://handle.ncl.edu.tw/11296/ndltd/85160644591925396043"
+
 skills:
     title: Programming &amp; Proficiency
 
     toolset:
-      - name: C & Swift
+      - name: C/C++ & Swift
         level: 100%
 
       - name: Python & Tensorflow
@@ -339,9 +356,6 @@ skills:
         level: 100%
 
       - name: SQL
-        level: 100%
-
-      - name: DApp
         level: 100%
 
       - name: Solidity
