@@ -325,7 +325,7 @@ book:
         conference: "Master’s Thesis"
         link: "http://handle.ncl.edu.tw/11296/ndltd/85160644591925396043"
 
-book:
+conf:
     title: Conference Papers
     intro: 
     papers:
