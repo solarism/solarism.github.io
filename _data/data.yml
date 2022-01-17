@@ -204,6 +204,10 @@ publications:
     title: Journal Papers
     intro: 
     papers:
+      - authors: "Yu‑Chih Wei, Tzu‑Yin Liao, Wei‑Chen Wu (2022, Jan.)" 
+        title: "Using machine learning to detect PII from attributes and supporting activities of information assets"
+        conference: "Journal of Supercomputing, DOI:10.1007/s11227-021-04239-9 (SCI/E, IF=2.474, 33/110, COMPUTER SCIENCE, THEORY & METHODS)"
+        link: "#"
       - authors: "Jui-Hung Kao, Wei-Chen Wu, Chen-Hu Chou, Horng-Twu Liaw (2021, Mar.)" 
         title: "The Discussion of Potential Care Needs for Physically and Mentally Disabled Citizens in Taipei City by Using Spatial Analysis"
         conference: "Sustainability,13(5), 2665 (SSCI/SCI/E, IF=3.251, 124/274, ENVIRONMENTAL SCIENCES)"
