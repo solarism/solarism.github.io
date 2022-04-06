@@ -205,9 +205,8 @@ publications:
     intro: 
     papers:
     
-    1.	, DOI: 10.2196/32411(SCE/, IF=5.428 ,10/107, HEALTH CARE SCIENCES & SERVICES)
-    
-      - authors: "Hsiu An Lee, Hsin-Hua Kung, Wei-Chen Wu, Jai Ganesh Udayasankaran, Yu-Chih Wei, Boonchai Kijsanayotin, Alvin B Marcelo, Chien-Yeh Hsu (2022, Feb.)" 
+
+      - authors: "Hsiu An Lee, Hsin-Hua Kung, Wei-Chen Wu, Jai Ganesh Udayasankaran, Yu-Chih Wei, Boonchai Kijsanayotin, Alvin B Marcelo, Chien-Yeh Hsu (2022, Apr.)" 
         title: "Vaccine Passport-A blockchain-based architecture for a secure, tamper-resistant, privacy-enhanced credentialing mechanism of vaccination and verification of test results"
         conference: "Journal of Medical Internet Research, (SCE/, IF=5.428 ,10/107, HEALTH CARE SCIENCES & SERVICES)"
         link: "https://doi.org/10.2196/32411"
