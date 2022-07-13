@@ -23,6 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    Scopus: 12807634400
 
     researches:
       - idiom: Network Security
