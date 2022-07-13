@@ -25,6 +25,16 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     Scopus: #12807634400
     
+    contributions:
+      - item: Scopus
+        link: https://www.scopus.com/authid/detail.uri?authorId=12807634400 
+      - item: ORCID
+        link: https://orcid.org/0000-0002-2419-6453 
+      - item: Scholar
+        link: https://scholar.google.com.tw/citations?user=0vyk6SIAAAAJ&hl=zh-TW
+      - item: DBLP
+        link: https://dblp.org/pid/41/52
+    
     researches:
       - idiom: Network Security
         level: 
@@ -54,11 +64,7 @@ sidebar:
 
       - item: Petkeeping 
         link:
-        
-    contributions:
-      - item: Scopus
-        link: https://www.scopus.com/authid/detail.uri?authorId=12807634400 
-      
+              
         
 Under construction...:
 career-profile:
