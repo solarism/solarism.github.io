@@ -25,7 +25,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     Scopus: #12807634400
 
-    contribution:
+    contributions:
       - idiom: Scopus
         link: https://www.scopus.com/authid/detail.uri?authorId=12807634400 
         
