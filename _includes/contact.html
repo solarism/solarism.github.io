@@ -66,6 +66,12 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.Scopus %}
+    <li class="Scopus-g"><i class="fab fa-Scopus-g"></i>
+      <a href="https://www.scopus.com/authid/detail.uri?authorId={{ sidebar.Scopus }}" target="_blank">{{ sidebar.Scopus }}</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
