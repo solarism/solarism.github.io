@@ -221,7 +221,7 @@ publications:
     intro: 
     papers:
     
-     - authors: "Wei-Chen Wu, Chit-Jie Chew, Ying-Chin Chen, Cheng-Han Wu, Tzu Hao Chen, Jung-San Lee  (2022, Nov.)" 
+      - authors: "Wei-Chen Wu, Chit-Jie Chew, Ying-Chin Chen, Cheng-Han Wu, Tzu Hao Chen, Jung-San Lee (2022, Nov.)"
         title: "Blockchain-based WDP Solution for Real-time Heterogeneous Computing Resource Allocation"
         conference: "IEEE Transactions on Network and Service Management, (SCI/E, IF=4.758 ,44/246, Q1, COMPUTER SCIENCE, INFORMATION SYSTEMS)"
         link: "https://doi.org/10.1109/TNSM.2022.3215988"
