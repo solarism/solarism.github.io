@@ -142,8 +142,12 @@ education:
           - Bullet point
 
 experiences:
+     - role: Associate Professor
+      time: 2023.8 - Present
+      company: Dept. of Finance, National Taipei University of Business, Taipei
+
     - role: Assistant Professor
-      time: 2021.8 - Present
+      time: 2021.8 - 2023.7
       company: Dept. of Finance, National Taipei University of Business, Taipei
 
     - role: Assistant Professor
@@ -241,6 +245,10 @@ publications:
     intro: 
     papers:
     
+      - authors: "Jui-Hung Kao, Yu-Yu Yen, Wei-Chen Wu, Horng-Twu Liaw, Shiou-Wei Fan, Yi-Chen Kao (2023, Dec.)"
+        title: "A Study of Identity Authentication Using Blockchain Technology in a 5G Multi-type Network Environment"
+        conference: "Computer Science and Information Systems, (SCI/E, IF=1.4 ,180/251, Q3, COMPUTER SCIENCE, INFORMATION SYSTEMS)"
+        link: "#"
       - authors: "Wei-Chen Wu, Chit-Jie Chew, Ying-Chin Chen, Cheng-Han Wu, Tzu Hao Chen, Jung-San Lee (2022, Nov.)"
         title: "Blockchain-based WDP Solution for Real-time Heterogeneous Computing Resource Allocation"
         conference: "IEEE Transactions on Network and Service Management, (SCI/E, IF=4.758 ,44/246, Q1, COMPUTER SCIENCE, INFORMATION SYSTEMS)"
