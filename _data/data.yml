@@ -71,9 +71,8 @@ career-profile:
     title: Vita
     summary: |
       Dr. Wei-Chen Wu was born in Taipei, Taiwan R.O.C. 
-      He is Associate Professor in the Department of Finance at the National Taipei University of Business.
-      He received his Ph.D. degree in Information Management from National Central University in 2016.  
-      From 2021-2023, He was Assistant Professor in the Department of Finance at the  National Taipei University of Business.  
+      He is Associate Professor in the Department of Finance at the National Taipei University of Business. 
+      He received his Ph.D. degree in Information Management from National Central University in 2016. From 2021-2023, He was Assistant Professor in the Department of Finance at the  National Taipei University of Business.  
       From 2020-2021, He was Assistant Professor in the Department of Finance at the Feng Chia University. 
       From 2008-2016, he was also Assistant Professor and Director of the Computer Center at Hsin Sheng College of Medical Care and Management. 
       His teaching interests lie in the area of programming languages, ranging from theory to design to implementation and his current research interests include blockchain technology, fintech cybersecurity, network security, and deep learning. 
@@ -247,10 +246,10 @@ publications:
     papers:
     
       - authors: "Yu-Chi Wei, Yu-Chun Chang, Wei-Chen Wu (2024, Apr.)"
-        title: "A Study of Identity Authentication Using Blockchain Technology in a 5G Multi-type Network Environment"
+        title: "Multi-language IoT Information Security Standard Item Matching based on Deep Learning"
         conference: "Computer Science and Information Systems, 21(2):663–683 (SCI/E, IF=1.4 ,180/251, Q3, COMPUTER SCIENCE, INFORMATION SYSTEMS)"
         link: "#"
-     - authors: "Jui-Hung Kao, Yu-Yu Yen, Wei-Chen Wu, Horng-Twu Liaw, Shiou-Wei Fan, Yi-Chen Kao (2024, Apr.)"
+      - authors: "Jui-Hung Kao, Yu-Yu Yen, Wei-Chen Wu, Horng-Twu Liaw, Shiou-Wei Fan, Yi-Chen Kao (2024, Apr.)"
         title: "A Study of Identity Authentication Using Blockchain Technology in a 5G Multi-type Network Environment"
         conference: "Computer Science and Information Systems, 21(2):507–524 (SCI/E, IF=1.4 ,180/251, Q3, COMPUTER SCIENCE, INFORMATION SYSTEMS)"
         link: "#" 
